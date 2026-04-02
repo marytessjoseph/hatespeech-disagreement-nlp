@@ -65,7 +65,7 @@ Download: [HuggingFace — ucberkeley-dsp/measuring-hate-speech](https://hugging
 ---
 
 ## Features Extracted (22)
-```
+
 | Feature | Description |
 |---|---|
 
@@ -92,7 +92,7 @@ Download: [HuggingFace — ucberkeley-dsp/measuring-hate-speech](https://hugging
 | `allcaps_ratio` | Proportion of words written in ALL CAPS |
 | `avg_token_length` | Average word length — proxy for language complexity |
 
-```
+
 
 ---
 
