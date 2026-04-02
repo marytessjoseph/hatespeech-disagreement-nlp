@@ -68,7 +68,6 @@ Download: [HuggingFace — ucberkeley-dsp/measuring-hate-speech](https://hugging
 
 | Feature | Description |
 |---|---|
-
 | `sent_length` | Number of tokens in the comment |
 | `negation_count` | Count of negation words (not, never, no...) |
 | `hedge_count` | Count of hedging words (maybe, might, possibly...) |
