@@ -1,0 +1,23 @@
+# Environment
+.env
+
+# Raw data — download yourself from HuggingFace
+data/raw/measuring_hate_speech_raw.csv
+data/raw/hatespeech_raw.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Spyder project files
+.spyproject/
+*.spyderproject
+*.spyder-py3
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db

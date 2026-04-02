@@ -1,0 +1,8 @@
+pandas
+numpy
+spacy
+textblob
+nltk
+better-profanity
+scikit-learn
+python-dotenv
