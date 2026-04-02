@@ -100,11 +100,17 @@ Download: [HuggingFace — ucberkeley-dsp/measuring-hate-speech](https://hugging
 
  Tool                                           Purpose 
 
+ 
  spaCy (`en_core_web_sm`)                  POS tagging, dependency parsing, syntactic features 
+ 
  TextBlob                                  Sentiment polarity 
+ 
  VADER (NLTK)                              Emotion intensity and emotional conflict detection 
+ 
  better_profanity                          Profanity detection 
+ 
  Custom word lists                         Hedging, negation, contrast, uncertainty, intensity 
+ 
  Scikit-learn                              Logistic Regression classifier 
 
 ---
